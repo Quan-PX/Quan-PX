@@ -6,8 +6,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Quan-PX&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Quan-PX&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Quan-PX&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆GitHub Trophies -->
+<!-- ![](https://github-trophies.vercel.app/?username=Quan-PX&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+<!-- Đây là một comment, nó sẽ không hiển thị trên GitHub -->
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
