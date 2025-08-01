@@ -15,14 +15,12 @@
 <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 
-### Frontend
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
 
-### Tools & Others
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -44,14 +42,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Quan-PX&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -60,15 +50,13 @@
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
   <img src="https://github.com/Quan-PX/Quan-PX/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## 📫 Connect with me
+<!-- ## 📫 Connect with me
 
 <div align="center">
   
@@ -76,11 +64,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://your-portfolio.com)
 
-</div>
+</div> -->
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Quan-PX&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
   
   ### ⭐ Don't forget to star my repositories if you find them useful!
