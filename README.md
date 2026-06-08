@@ -40,8 +40,6 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quan-PX&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </div> -->
 
----
-
 <!-- ## 📈 Activity Graph
 
 <div align="center">
@@ -49,7 +47,7 @@
 </div>
 
 ---
-
+-->
 <div align="center">
   <img src="https://github.com/Quan-PX/Quan-PX/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
