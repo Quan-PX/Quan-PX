@@ -52,8 +52,6 @@
   <img src="https://github.com/Quan-PX/Quan-PX/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
----
-
 <!-- ## 📫 Connect with me
 
 <div align="center">
